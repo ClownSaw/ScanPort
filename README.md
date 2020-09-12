@@ -37,3 +37,14 @@ github.com   :   21 is closed
 ```
 
 ## Info:
+Para confirmar si el script funciona bien, pues pueden confirmarlo en con nmap, para los que tienen Nmap
+instalado solo escriban el comando.
+```
+nmap [host/ip]
+```
+Pero para los que no lo tienen instalado puedes usar el script que tiene el repositorio, se llama Nmap 
+es el mismo nmap pero este es online y puede usarlo.
+```
+python3 nmap.py [host/ip]
+```
+Disfruten feliz Scanning <3
