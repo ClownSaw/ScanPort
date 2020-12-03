@@ -8,7 +8,7 @@ pip3 install colorama
 
 ## Uso:
 ```
-python3 scan_port.py -p 1-3000 host/ip
+python3 scanport.py -p 1-3000 host/ip
 ```
 
 ## Output:
